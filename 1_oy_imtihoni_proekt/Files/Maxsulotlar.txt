@@ -1,0 +1,12 @@
+kolbasa/1121/dona/2196150,0000
+sut/180/dona/20000
+tea/146/dona/170500,0
+cola/195/dona/15000
+sosiska/400/dona/80000
+sok/80/dona/15000
+sabzi/600/kg/7000
+tuzbodring/150/dona/18000
+kartoshka/7996/kg/5500,0
+kukpiyoz/80/dona/2000
+suv/168/dona/150000
+fanta/41/dona/16500,0

@@ -1,0 +1,22 @@
+0000/Tuxtaniyoz/kolbasa/1000/dona/1500000/ /03.07.2023 23:55:25
+0001/Sherin/kolbasa/140/dona/140000/ /04.07.2023 16:06:20
+0002/Sadaf/sut/180/dona/20000/ /04.07.2023 16:07:54
+0003/AkbarSolution/tea/150/dona/155000/ /04.07.2023 17:54:05
+0004/CocaCola/cola/150/dona/7000/ /04.07.2023 18:14:58
+0005/Toxtaniyoz/sosiska/400/dona/80000/ /04.07.2023 18:16:12
+0006/Bliss/sok/80/dona/15000/ /04.07.2023 18:18:14
+0007/Sabzavotlar/sabzi/600/kg/7000/ /04.07.2023 18:20:35
+0006/Bliss/tuzbodring/150/dona/18000/ /04.07.2023 18:21:39
+0007/Sabzavotlar/kartoshka/8000/kg/5000/ /04.07.2023 18:23:34
+0007/Sabzavotlar/kukpiyoz/80/dona/2000/ /04.07.2023 18:24:34
+0007/Sabzavotlar/kartoshka/4/kg/ /5500,0/04.07.2023 18:25:14
+0001/Sherin/kolbasa/1/dona/ /1650000,0/04.07.2023 19:20:48
+0001/Sherin/kolbasa/12/dona/ /1815000,00/04.07.2023 19:21:07
+0001/Sherin/kolbasa/2/dona/ /1996500,000/04.07.2023 19:21:32
+0003/AkbarSolution/tea/4/dona/ /170500,0/04.07.2023 19:22:04
+0001/Sherin/suv/18/litr/150000/ /04.07.2023 19:25:49
+0001/Sherin/kolbasa/4/dona/ /2196150,0000/04.07.2023 19:33:22
+7888/Coca Cola/cola/45/dona/15000/ /04.07.2023 20:48:19
+8888/Fanta/fanta/45/dona/15000/ /04.07.2023 20:50:45
+8888/Fanta/fanta/4/dona/ /16500,0/04.07.2023 20:51:23
+0000/Akbar/suv/150/dona/150000/ /04.07.2023 21:35:34
